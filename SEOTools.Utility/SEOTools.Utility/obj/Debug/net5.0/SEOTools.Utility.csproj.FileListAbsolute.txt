@@ -1,0 +1,15 @@
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\bin\Debug\net5.0\SEOTools.Entities.dll
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.csprojAssemblyReference.cache
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.AssemblyInfoInputs.cache
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.AssemblyInfo.cs
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\bin\Debug\net5.0\SEOTools.Utility.deps.json
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\bin\Debug\net5.0\SEOTools.Utility.dll
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\bin\Debug\net5.0\ref\SEOTools.Utility.dll
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\bin\Debug\net5.0\SEOTools.Utility.pdb
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\bin\Debug\net5.0\SEOTools.Entities.pdb
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.csproj.CoreCompileInputs.cache
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.csproj.CopyComplete
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.dll
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\ref\SEOTools.Utility.dll
+C:\Users\rohan\source\repos\SEO-Tools\SEOTools.Utility\SEOTools.Utility\obj\Debug\net5.0\SEOTools.Utility.pdb
